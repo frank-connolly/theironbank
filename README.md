@@ -1,2 +1,2 @@
-# theironbank
-Workout Log
+# The Iron Bank
+Simple workout log application
